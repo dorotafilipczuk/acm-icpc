@@ -5,7 +5,7 @@
             </a>
  </p>
  
-## Mathematics (30/10/2018)</h3>
+## Mathematics (30/10/2018)
   ### The Luncheon
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241).
 
