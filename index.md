@@ -6,29 +6,29 @@
  </p>
  
 ## 30/10/2018
-  ### The Luncheon
+  <h4>The Luncheon</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241).
 
-  ### Counting Zeroes
+  <h4>Counting Zeroes</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=313"]
       (https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=313).
 
-  ### Cowculations
+  <h4>Cowculations</h4>
     Problem description:[https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=313](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=313).
   
-  ### Simply Emirp
+  <h4>Simply Emirp</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1176](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1176).
     
-  ### Just the Facts
+  <h4>Just the Facts</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=509](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=509).
   
-  ### Safe Salutations
+  <h4>Safe Salutations</h4>
     Problem description:[https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=932).
     
-  ### Vampires
+  <h4>Vampires</h4>
     Problem description: ["https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2495"](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2495).
     
-  ### Repackaging
+  <h4>Repackaging</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1030"](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1030).
 
 Last update: 27/10/2018
