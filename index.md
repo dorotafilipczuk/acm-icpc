@@ -7,7 +7,7 @@
  
 ## 30/10/2018
   <h4>The Luncheon</h4>
-    Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241).
+    Problem description: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3241.
 
   <h4>Counting Zeroes</h4>
     Problem description: [https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=313"]
